@@ -1,0 +1,5 @@
+bank.name=ICICI
+bank.address=Chennai
+bank.Cname=payal
+bank.accno=111111111
+bank.acctype=saving
